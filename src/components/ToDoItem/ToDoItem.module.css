@@ -1,0 +1,14 @@
+.todoItem {
+  cursor: pointer;
+}
+
+.todoLabel {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.todoCheckbox {
+  margin-right: 10px;
+  cursor: pointer;
+}
